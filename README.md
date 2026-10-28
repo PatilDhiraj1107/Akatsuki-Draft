@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Akatsuki’s Draft: AI-Enabled Content Sharing Platform (Backend)
 
 Akatsuki's Draft is a content creation, refinement, and publishing backend built with Node.js, Express, MongoDB, JWT authentication, and AI integration.
@@ -314,3 +315,6 @@ The test suite runs against in-memory MongoDB and covers:
 - Admin moderation permissions (`/admin/posts/pending`, approve, reject)
 - AI content enhancement preserving original draft (`POST /ai/improve/:postId`)
 - Post update and deletion
+=======
+# Akatsuki-Draft
+>>>>>>> 86131abca0affa758e1589e53de7d61cd0af07fc
